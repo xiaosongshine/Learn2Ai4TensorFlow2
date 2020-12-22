@@ -21,21 +21,21 @@
 
 [《带你学AI》](https://github.com/xiaosongshine/Learn2Ai4TensorFlow2)系列教程将分为以下八个部分：
 
-**1. 系列开篇与入门方法讲解·《带你学AI与TensorFlow2实战之入门初探》（已完成）**
+**1. 系列开篇与入门方法讲解·[《带你学AI与TensorFlow2实战之入门初探》（已完成）](https://github.com/xiaosongshine/Learn2Ai4TensorFlow2/Page-1.md)**
 
-**2. 手把手环境搭建与开发环境配置·《带你学AI与TensorFlow2实战之工欲善其事》**
+**2. 手把手环境搭建与开发环境配置·《带你学AI与TensorFlow2实战之工欲善其事》（待完成）**
 
-**3. 手把手分类项目实战讲解·《带你学AI与TensorFlow2实战之分类项目实战》**
+**3. 手把手分类项目实战讲解·《带你学AI与TensorFlow2实战之分类项目实战》（待完成）**
 
-**4. 手把手目标检测实战讲解·《带你学AI与TensorFlow2实战之目标检测实战》**
+**4. 手把手目标检测实战讲解·《带你学AI与TensorFlow2实战之目标检测实战》（待完成）**
 
-**5. 手把手像素分割实战讲解·《带你学AI与TensorFlow2实战之像素分割实战》**
+**5. 手把手像素分割实战讲解·《带你学AI与TensorFlow2实战之像素分割实战》（待完成）**
 
-**6. 手把手NLP任务RNN文本分类实战·《带你学AI与TensorFlow2实战之RNN文本分类实战》**
+**6. 手把手NLP任务RNN文本分类实战·《带你学AI与TensorFlow2实战之RNN文本分类实战》（待完成）**
 
-**7. 手把手NLP任务Transformer翻译实战·《带你学AI与TensorFlow2实战之Transformer翻译实战》**
+**7. 手把手NLP任务Transformer翻译实战·《带你学AI与TensorFlow2实战之Transformer翻译实战》（待完成）**
 
-**手把手AI算法模型应用的部署·《带你学AI与TensorFlow2实战之AI算法模型应用》**
+**手把手AI算法模型应用的部署·《带你学AI与TensorFlow2实战之AI算法模型应用》（待完成）**
 
 旨在通过对原理的通俗讲解、学习方法的介绍培养、开发环境的手把手搭建、深度学习案例开发讲解以及算法模型应用部署使用。
 
