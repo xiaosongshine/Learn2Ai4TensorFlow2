@@ -21,7 +21,7 @@
 
 [《带你学AI》](https://github.com/xiaosongshine/Learn2Ai4TensorFlow2)系列教程将分为以下八个部分：
 
-**1. 系列开篇与入门方法讲解·[《带你学AI与TensorFlow2实战之入门初探》（已完成）](https://github.com/xiaosongshine/Learn2Ai4TensorFlow2/Page-1.md)**
+**1. 系列开篇与入门方法讲解·[《带你学AI与TensorFlow2实战之入门初探》（已完成）](https://github.com/xiaosongshine/Learn2Ai4TensorFlow2/blob/main/Page-1.md)**
 
 **2. 手把手环境搭建与开发环境配置·《带你学AI与TensorFlow2实战之工欲善其事》（待完成）**
 
