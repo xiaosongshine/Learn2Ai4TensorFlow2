@@ -1,6 +1,5 @@
-<center><p>
-  ![](https://img-blog.csdnimg.cn/20201228173459402.jpg)
-</p></center>
+<div align=center><img src="https://img-blog.csdnimg.cn/20201228173459402.jpg" width="720"></div>
+
 >本文由 TensorFlow 社区作者创作，与 [TensorFlow 社区](https://blog.csdn.net/tensorflowforum)合作出品，文章已入选 “[TensorFlow 开发者出道计划](https://blog.csdn.net/tensorflowforum/article/details/109832059)” 精选推荐
 
 ## **系列开篇语**
@@ -9,10 +8,9 @@
   
 
 > 写深度学习博客有两年多了，从最初的做记录备忘到现在经验总结分享，积累了一些读者，也结识了不少想入门研究深度学习的朋友。有不少朋友私聊问小宋如何快速入门深度学习，我发现大部分小伙伴都是对这方面有兴趣面对网上丰富的资料却不知道如何选择与操作。从而让我萌发了写一个一步步手把手带大家如何从零开始学习，使得基础薄弱的人员能以更简单易懂的方式入门深度学习与实战开发系列教程——**《带你学AI与TensorFlow2实战》**。
-<center><p>
-  ![](https://img-blog.csdnimg.cn/img_convert/53b608e2d2f8cf520bb40adf164b59c4.png)
-</p></center>
 
+
+<div align=center><img src="https://img-blog.csdnimg.cn/img_convert/53b608e2d2f8cf520bb40adf164b59c4.png" width="360"></div>
 
 《带你学AI》包括对于深度学习原理的直白讲解与应用的开发实践，代码实现选择了易用性与部署性俱佳的TensorFlow2框架。系列教程通过对学习方法讲解以及环境手把手搭建，降低深度学习入门门槛，从而使小白用户也能利用深度学习，应用到实际的生活与生产中。
 
@@ -57,9 +55,8 @@
 现在正式开始AI学习之旅喽...
 
 **Keep Fighting。。。**
-<center><p>
-  ![](https://img-blog.csdnimg.cn/img_convert/1d7ef3c3f998b1e25375d145b32e0bb3.png)
-</p></center>
+
+<div align=center><img src="https://img-blog.csdnimg.cn/img_convert/1d7ef3c3f998b1e25375d145b32e0bb3.png" width="360"></div>
 
 **同时推荐大家关注笔者公众号“极简AI”（ID：BriefAI），一起探讨学习深度学习理论与应用开发技术。**
 
