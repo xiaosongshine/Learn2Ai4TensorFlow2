@@ -1,4 +1,4 @@
-本文由 TensorFlow 社区作者创作，文章已入选 “TensorFlow 开发者出道计划” 精选推荐，关注 TensorFlow 社区，参与社区共建，点击这里了解更多。 全能社区，一起建设！
+本文由 TensorFlow 社区作者创作，与 [TensorFlow 社区](https://blog.csdn.net/tensorflowforum)合作出品，文章已入选 “[TensorFlow 开发者出道计划](https://blog.csdn.net/tensorflowforum/article/details/109832059)” 精选推荐
 ![](https://img-blog.csdnimg.cn/20201228173459402.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3pvbmc1OTY1Njg4MjF4cA==,size_16,color_FFFFFF,t_70)
 
 
@@ -63,6 +63,6 @@
 > 
 > ![](https://img-blog.csdnimg.cn/img_convert/f4c0601fd8f86b2795e3d00928660bd9.png)
 > 
-> ​基于深度学习的理论学习与应用开发技术分享，笔者会经常分享深度学习干货内容，大家在学习或者应用深度学习时，遇到什么问题也可以与我在上面交流知无不答。
+> 基于深度学习的理论学习与应用开发技术分享，笔者会经常分享深度学习干货内容，大家在学习或者应用深度学习时，遇到什么问题也可以与我在上面交流知无不答。
 > 
 > 出自[CSDN博客专家](https://xiaosongshine.blog.csdn.net/)&[知乎深度学习专栏作家](https://www.zhihu.com/people/xiaosongshine/activities)@小宋是呢
