@@ -1,4 +1,4 @@
-
+本文由 TensorFlow 社区作者创作，文章已入选 “TensorFlow 开发者出道计划” 精选推荐，关注 TensorFlow 社区，参与社区共建，点击这里了解更多。 全能社区，一起建设！
 ![](https://img-blog.csdnimg.cn/20201228173459402.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3pvbmc1OTY1Njg4MjF4cA==,size_16,color_FFFFFF,t_70)
 
 
