@@ -1,14 +1,17 @@
-本文由 TensorFlow 社区作者创作，与 [TensorFlow 社区](https://blog.csdn.net/tensorflowforum)合作出品，文章已入选 “[TensorFlow 开发者出道计划](https://blog.csdn.net/tensorflowforum/article/details/109832059)” 精选推荐
-![](https://img-blog.csdnimg.cn/20201228173459402.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3pvbmc1OTY1Njg4MjF4cA==,size_16,color_FFFFFF,t_70)
-
+<center><p>
+  ![](https://img-blog.csdnimg.cn/20201228173459402.jpg)
+</p></center>
+>本文由 TensorFlow 社区作者创作，与 [TensorFlow 社区](https://blog.csdn.net/tensorflowforum)合作出品，文章已入选 “[TensorFlow 开发者出道计划](https://blog.csdn.net/tensorflowforum/article/details/109832059)” 精选推荐
 
 ## **系列开篇语**
+
 
   
 
 > 写深度学习博客有两年多了，从最初的做记录备忘到现在经验总结分享，积累了一些读者，也结识了不少想入门研究深度学习的朋友。有不少朋友私聊问小宋如何快速入门深度学习，我发现大部分小伙伴都是对这方面有兴趣面对网上丰富的资料却不知道如何选择与操作。从而让我萌发了写一个一步步手把手带大家如何从零开始学习，使得基础薄弱的人员能以更简单易懂的方式入门深度学习与实战开发系列教程——**《带你学AI与TensorFlow2实战》**。
-
-![](https://img-blog.csdnimg.cn/img_convert/53b608e2d2f8cf520bb40adf164b59c4.png)
+<center><p>
+  ![](https://img-blog.csdnimg.cn/img_convert/53b608e2d2f8cf520bb40adf164b59c4.png)
+</p></center>
 
 
 《带你学AI》包括对于深度学习原理的直白讲解与应用的开发实践，代码实现选择了易用性与部署性俱佳的TensorFlow2框架。系列教程通过对学习方法讲解以及环境手把手搭建，降低深度学习入门门槛，从而使小白用户也能利用深度学习，应用到实际的生活与生产中。
@@ -19,7 +22,7 @@
 
   
 
-[《带你学AI》](https://github.com/xiaosongshine/Learn2Ai4TensorFlow2)系列教程将分为以下十一个部分：
+《带你学AI》系列教程将分为以下十一个部分：
 
 **1. **章节一：初探AI（《带你学AI与TensorFlow2实战一之深度学习初探》）：（[已完成](https://xiaosongshine.blog.csdn.net/article/details/111505064)）****
 
@@ -54,8 +57,9 @@
 现在正式开始AI学习之旅喽...
 
 **Keep Fighting。。。**
-
-![](https://img-blog.csdnimg.cn/img_convert/1d7ef3c3f998b1e25375d145b32e0bb3.png)
+<center><p>
+  ![](https://img-blog.csdnimg.cn/img_convert/1d7ef3c3f998b1e25375d145b32e0bb3.png)
+</p></center>
 
 **同时推荐大家关注笔者公众号“极简AI”（ID：BriefAI），一起探讨学习深度学习理论与应用开发技术。**
 
@@ -66,3 +70,5 @@
 > 基于深度学习的理论学习与应用开发技术分享，笔者会经常分享深度学习干货内容，大家在学习或者应用深度学习时，遇到什么问题也可以与我在上面交流知无不答。
 > 
 > 出自[CSDN博客专家](https://xiaosongshine.blog.csdn.net/)&[知乎深度学习专栏作家](https://www.zhihu.com/people/xiaosongshine/activities)@小宋是呢
+
+
