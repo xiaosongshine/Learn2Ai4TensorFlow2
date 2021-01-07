@@ -1,15 +1,15 @@
 
 ![](https://img-blog.csdnimg.cn/20201228173459402.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3pvbmc1OTY1Njg4MjF4cA==,size_16,color_FFFFFF,t_70)
 
+
 ## **系列开篇语**
 
   
 
 > 写深度学习博客有两年多了，从最初的做记录备忘到现在经验总结分享，积累了一些读者，也结识了不少想入门研究深度学习的朋友。有不少朋友私聊问小宋如何快速入门深度学习，我发现大部分小伙伴都是对这方面有兴趣面对网上丰富的资料却不知道如何选择与操作。从而让我萌发了写一个一步步手把手带大家如何从零开始学习，使得基础薄弱的人员能以更简单易懂的方式入门深度学习与实战开发系列教程——**《带你学AI与TensorFlow2实战》**。
 
-![](https://img-blog.csdnimg.cn/img_convert/53b608e2d2f8cf520bb40adf164b59c4.png)​
+![](https://img-blog.csdnimg.cn/img_convert/53b608e2d2f8cf520bb40adf164b59c4.png)
 
-![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "点击并拖拽以移动")
 
 《带你学AI》包括对于深度学习原理的直白讲解与应用的开发实践，代码实现选择了易用性与部署性俱佳的TensorFlow2框架。系列教程通过对学习方法讲解以及环境手把手搭建，降低深度学习入门门槛，从而使小白用户也能利用深度学习，应用到实际的生活与生产中。
 
