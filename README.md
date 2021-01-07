@@ -22,9 +22,9 @@
 
 《带你学AI》系列教程将分为以下十一个部分：
 
-**1. **章节一：初探AI（《带你学AI与TensorFlow2实战一之深度学习初探》）：（[已完成](https://xiaosongshine.blog.csdn.net/article/details/111505064)）****
+**1. **章节一：初探AI（《带你学AI与TensorFlow2实战一之深度学习初探》）：（[已完成](https://github.com/xiaosongshine/Learn2Ai4TensorFlow2/blob/main/Page-1.md)）****
 
-**2. **章节二：环境搭建（《带你学AI与TensorFlow2实战二之多系统开发环境与工具搭建》）：（[Windows10篇完成](https://xiaosongshine.blog.csdn.net/article/details/112249592)；Ubuntu18进行中）****
+**2. **章节二：环境搭建（《带你学AI与TensorFlow2实战二之多系统开发环境与工具搭建》）：（[Windows10篇完成](https://github.com/xiaosongshine/Learn2Ai4TensorFlow2/blob/main/Page-2-1.md)；Ubuntu18进行中）****
 
 **3. **章节三：CV项目分类实战（《带你学AI与TensorFlow2实战三之交通标志分类项目》）：****
 
