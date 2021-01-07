@@ -1,8 +1,16 @@
+## **系列开篇语**
 
   
 
-### 带你学AI与TensorFlow2实战开发之深度学习初探
+> 写深度学习博客有两年多了，从最初的做记录备忘到现在经验总结分享，积累了一些读者，也结识了不少想入门研究深度学习的朋友。有不少朋友私聊问小宋如何快速入门深度学习，我发现大部分小伙伴都是对这方面有兴趣面对网上丰富的资料却不知道如何选择与操作。从而让我萌发了写一个一步步手把手带大家如何从零开始学习，使得基础薄弱的人员能以更简单易懂的方式入门深度学习与实战开发系列教程——**《带你学AI与TensorFlow2实战》**。
 
+![](https://img-blog.csdnimg.cn/img_convert/53b608e2d2f8cf520bb40adf164b59c4.png)​
+
+![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "点击并拖拽以移动")
+
+《带你学AI》包括对于深度学习原理的直白讲解与应用的开发实践，代码实现选择了易用性与部署性俱佳的TensorFlow2框架。系列教程通过对学习方法讲解以及环境手把手搭建，降低深度学习入门门槛，从而使小白用户也能利用深度学习，应用到实际的生活与生产中。
+
+----------
 
 ## **深度学习初探**
 
@@ -17,6 +25,8 @@
 > 3、在学习的过程中遇到问题如何解决与寻求帮助
 
 ### **是否需要深度学习**
+
+  
 
   
 
@@ -54,6 +64,8 @@
 
 ![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "点击并拖拽以移动")
 
+  
+
 经常与深度学习一起出现的还有这几个名词：人工智能 (AI)、机器学习以及神经网络，上图就是对它们关联的描述。如果用一句话来概述这个图，机器学习是实现人工智能的途径，运用神经网络的深度学习是机器学习中一个强有力的工具。
 
   
@@ -66,7 +78,7 @@
 
   
 
-**大家可以通过以下几个简单问题测试一下：**  
+**大家可以通过以下几个简单问题测试一下：**
 
 1，是否对深度学习感兴趣打算从事相关工作？
 
@@ -148,6 +160,8 @@
 
   
 
+  
+
 > 小宋说：其实还有一些会遇到的工具，但是并非必须的，这里就不重点推荐了。比如[Shell指令](https://www.runoob.com/linux/linux-shell.html)与[Git操作](https://www.runoob.com/git/git-tutorial.html)这里仅作为补充说明，供学有余力的同学翻阅了。
 
   
@@ -180,6 +194,8 @@
 
   
 
+  
+
 **后面《带你学AI》系列教程环境配置方面会以VSCode为例，由于VSCode多平台支持的，所以会针对Ubuntu与Windows都会有使用教程说明。**
 
   
@@ -189,12 +205,6 @@
   
 
 [《带你学AI》](https://github.com/xiaosongshine/Learn2Ai4TensorFlow2)系列教程将基于TensorFlow2.3，选择TensorFlow2的原因是TensorFlow2相较于TensorFlow1.x更新为动态图，更加易用好学，同时部署性也极佳。会更加适用于大多数用户。
-
-  
-
-  
-
-  
 
   
 
@@ -252,13 +262,15 @@ TensorFlow 2.4.0 候选版本发布：[https://blog.csdn.net/tensorflowforum/art
 > 
 > 曾使用或正在使用 TensorFlow 1.X 版本或其他深度学习框架（比如 PyTorch），希望了解和学习 TensorFlow 2 新特性的开发者；
 > 
-> 希望将已有的 TensorFlow 模型应用于业界的开发者或工程师。  
+> 希望将已有的 TensorFlow 模型应用于业界的开发者或工程师。
 > 
-> 同时配套纸质完整版书籍，纸质版《简明的 TensorFlow 2》由人民邮电出版社（图灵社区）出版，在本在线手册的基础上进行了细致的编排校对，并增加了若干 TensorFlow 高级专题，全彩印刷，为读者带来更好的阅读体验。  
+> 同时配套纸质完整版书籍，纸质版《简明的 TensorFlow 2》由人民邮电出版社（图灵社区）出版，在本在线手册的基础上进行了细致的编排校对，并增加了若干 TensorFlow 高级专题，全彩印刷，为读者带来更好的阅读体验。
 > 
 > ![](https://img-blog.csdnimg.cn/img_convert/4b501717c880a3a4ac19a8bd91df3818.png)​
 > 
 > ![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "点击并拖拽以移动")
+> 
+>   
 
   
 
@@ -317,6 +329,8 @@ TensorFlow 2.4.0 候选版本发布：[https://blog.csdn.net/tensorflowforum/art
 ![](https://img-blog.csdnimg.cn/img_convert/2e222a20c278faf22b2a514a356bcd77.png)​
 
 ![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "点击并拖拽以移动")
+
+  
 
   
 
@@ -410,6 +424,8 @@ TensorFlow 2.4.0 候选版本发布：[https://blog.csdn.net/tensorflowforum/art
 
   
 
+  
+
 这里以TensorFlow 开源举例 [https://github.com/tensorflow/tensorflow/issues](https://github.com/tensorflow/tensorflow/issues)
 
   
@@ -421,6 +437,8 @@ TensorFlow 2.4.0 候选版本发布：[https://blog.csdn.net/tensorflowforum/art
 ![](https://img-blog.csdnimg.cn/img_convert/acc331bf73cb6487cb0517930baa8814.png)​
 
 ![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "点击并拖拽以移动")
+
+  
 
   
 
@@ -441,6 +459,8 @@ TensorFlow 2.4.0 候选版本发布：[https://blog.csdn.net/tensorflowforum/art
 ![](https://img-blog.csdnimg.cn/img_convert/0b388db98758136722459dab132dd9a0.png)​
 
 ![](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw== "点击并拖拽以移动")
+
+  
 
   
 
